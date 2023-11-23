@@ -63,6 +63,10 @@ You can find in [Paper](https://paperswithcode.com/dataset/lfsd)   <br>
 **SUN-RGBD**
 It contains 10335 real RGB-D images of room scenes. Each RGB image has a corresponding depth and segmentation map. As many as 700 object categories are labeled. The training and testing sets contain 5285 and 5050 images, respectively. <br>
 You can find in [Paper](https://paperswithcode.com/dataset/sun-rgb-d)   <br>
+**Scale Multi-view RGBD**  <br>
+It consists of 47210 RGBD images from 37 object categories, annotated with 15 visual affordance types. <br>
+You can find in [Paper](https://ieeexplore.ieee.org/document/10222906)   <br>
+
 
 ## RGB-Lidar:
 **KITTI**  <br>
@@ -118,6 +122,9 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 03| **IEEE** |(survey) RGB-D and Thermal Sensor Fusion: A Systematic Literature Review| [Paper](https://ieeexplore.ieee.org/document/10201865)/[Code]()
 04 | **IEEE** | CMCLNet Cross-Modality Attention Fusion and Cross-Level Feature Interaction for RGBD salient object detection| [Paper](https://ieeexplore.ieee.org/document/10262928)/[Code]()
 05 | **IEEE** | Depth Injection Framework for RGBD Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10258039#full-text-header)/[Code]()
+06| **IEEE** |Surface Defect Detection for No-Service Rails With Skeleton-Aware Accurate and Fast Network | [Paper](https://ieeexplore.ieee.org/document/10304418)/[Code]()
+07✔| **IEEE** |A Large Scale Multi-View RGBD Visual Affordance Learning Dataset | [Paper](https://ieeexplore.ieee.org/document/10222906)/[Code]()
+
 # Multi-modal  fusion for  object detection（RGB-Lidar)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
