@@ -129,13 +129,16 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01| **IEEE** | ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3-D Object Detection| [Paper](https://ieeexplore.ieee.org/document/10268462)/[Code]()
+01 | **IEEE** | ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3-D Object Detection| [Paper](https://ieeexplore.ieee.org/document/10268462)/[Code]()
 02 | **IEEE** | EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection| [Paper](https://ieeexplore.ieee.org/document/9983516)/[Code]()
+03 | **IEEE** | Camera and LiDAR Fusion for Robust 3D Person Detection in Indoor Environments | [Paper](https://ieeexplore.ieee.org/document/10129627)/[Code]()
+
 # Multi-modal  fusion for  object detection（others)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** |**Remark**|
 :-: | :-: | :-  | :-: | :-: |
-01| **IEEE** |Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization | [Paper]()/[Code]()|RGB-D-Lidar|
+01| **IEEE** |Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization | [Paper](https://ieeexplore.ieee.org/document/10256373)/[Code]()|RGB-D-Lidar|
+02 | **IEEE** | Ad Hoc-Obstacle Avoidance-Based Navigation System Using Deep Reinforcement Learning for Self-Driving Vehicles| [Paper](https://ieeexplore.ieee.org/document/10189852)/[Code]()|RGB-D RGB-Lidar|
 
 --------------------------------------------------------------------------------------
 # keep updating
