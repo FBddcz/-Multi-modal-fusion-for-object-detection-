@@ -71,8 +71,9 @@ You can find in [Paper](https://paperswithcode.com/dataset/come15k)   <br>
 06| **IEEE** |Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219673)/[Code]()
 07 | **IEEE** | (*)Modality Registration and Object Search Framework for UAV-Based Unregistered RGB-T Image Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10315195)/[Code]()
 08 | **IEEE** | A Potential Vision-Based Measurements Technology: Information Flow Fusion Detection Method Using RGB-Thermal Infrared Images| [Paper](https://ieeexplore.ieee.org/document/10015881#full-text-header)/[Code]()
-09 | **IEEE** | Vehicle Detection Based on Adaptive Multimodal Feature Fusion and Cross-Modal Vehicle Index Using RGB-T Images| [Paper](h02 | **IEEE** | | [Paper]()/[Code]()
+09 | **IEEE** | Vehicle Detection Based on Adaptive Multimodal Feature Fusion and Cross-Modal Vehicle Index Using RGB-T Images| [Paper](https://ieeexplore.ieee.org/document/10179923/)/[Code]()
 10| **IEEE** |Does Thermal Really Always Matter for RGB-T Salient Object Detection? | [Paper](https://ieeexplore.ieee.org/document/9926193#full-text-header)/[Code]()
+11 | **IEEE** |HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9869666)/[Code]()
 
 
 
