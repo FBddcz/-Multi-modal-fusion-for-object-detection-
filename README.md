@@ -16,9 +16,15 @@ Provide a summary of Multi-modal  fusion for  object detection <br>
 **Trans 10 K**  <br>
 a transparent dataset with 10 428 real data, only has two limited categories  <br>
 You can find in [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_41)   <br>
+--------------------------------------------------------------------------------------
+# Multi-modal  fusion for  object detection（RGB-T)
+## 2023
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **IEEE** | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10032588)/[Code]()
+02 | **IEEE** | Feature Enhancement and Fusion for RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10222404/)/[Code]()
+03 | **IEEE** | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9925217)/[Code]()
 
-# Multi-modal  fusion for  object detection
-## 
-### 2023 // Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection
-You can find in [Paper](https://ieeexplore.ieee.org/document/10032588) 
 
+--------------------------------------------------------------------------------------
+# keep updating
