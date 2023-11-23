@@ -68,12 +68,15 @@ You can find in [Paper](https://paperswithcode.com/dataset/come15k)   <br>
 03 | **IEEE** | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9925217)/[Code]()
 04 | **IEEE** | SF-YOLO: RGB-T Fusion Object Detection in UAV Scenes| [Paper](https://ieeexplore.ieee.org/document/10270358)/[Code]()
 05 | **IEEE** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10015667)/[Code]()
-06| **IEEE** |Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219673)/[Code]()
+06| **IEEE** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10219673)/[Code]()
 07 | **IEEE** | (*)Modality Registration and Object Search Framework for UAV-Based Unregistered RGB-T Image Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10315195)/[Code]()
 08 | **IEEE** | A Potential Vision-Based Measurements Technology: Information Flow Fusion Detection Method Using RGB-Thermal Infrared Images| [Paper](https://ieeexplore.ieee.org/document/10015881#full-text-header)/[Code]()
 09 | **IEEE** | Vehicle Detection Based on Adaptive Multimodal Feature Fusion and Cross-Modal Vehicle Index Using RGB-T Images| [Paper](https://ieeexplore.ieee.org/document/10179923/)/[Code]()
-10| **IEEE** |Does Thermal Really Always Matter for RGB-T Salient Object Detection? | [Paper](https://ieeexplore.ieee.org/document/9926193#full-text-header)/[Code]()
-11 | **IEEE** |HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9869666)/[Code]()
+10| **IEEE** | Does Thermal Really Always Matter for RGB-T Salient Object Detection? | [Paper](https://ieeexplore.ieee.org/document/9926193#full-text-header)/[Code]()
+11 | **IEEE** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9869666)/[Code]()
+12 | **IEEE** | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10127616)/[Code]()
+
+
 
 
 
@@ -83,6 +86,7 @@ You can find in [Paper](https://paperswithcode.com/dataset/come15k)   <br>
 :-: | :-: | :-  | :-: 
 01 | **IEEE** | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/9925217)/[Code]()
 02 | **IEEE** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10015667)/[Code]()
+03| **IEEE** |(survey) RGB-D and Thermal Sensor Fusion: A Systematic Literature Review| [Paper](https://ieeexplore.ieee.org/document/10201865)/[Code]()
 
 --------------------------------------------------------------------------------------
 # keep updating
