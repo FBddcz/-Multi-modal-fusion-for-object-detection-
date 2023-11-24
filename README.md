@@ -11,6 +11,7 @@ Provide a summary of Multi-modal  fusion for  object detection <br>
 3. <a href="#Multi-modal  fusion for  object detection(RGB-D)"> Multi-modal  fusion for  object detection（RGB-D)</a>
 4. <a href="#Multi-modal  fusion for  object detection(RGB-Lidar)"> Multi-modal  fusion for  object detection（RGB-Lidar)</a>
 5. <a href="#Multi-modal  fusion for  object detection(others)"> Multi-modal  fusion for  object detection（others)</a>
+5. <a href="#Multi-modal  fusion for  object detection(survey)"> Multi-modal  fusion for  object detection（survey)</a>
 --------------------------------------------------------------------------------------
 # Multi-modal  fusion for  object detectiont Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 --------------------------------------------------------------------------------------
@@ -151,11 +152,13 @@ You can find in [Paper](https://github.com/VDT-2048/VDT-Dataset)   <br>
 09 | **Elsevier** | Depth guided feature selection for RGBD salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222014102#ab005)/[Code]()
 10 | **Elsevier** | Geometry-guided multilevel RGBD fusion for surface normal estimation| [Paper](https://www.sciencedirect.com/science/article/pii/S0140366423001330)/[Code]()
 11 | **Elsevier** |Dual attention guided multi-scale fusion network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596523000863)/[Code]()
-12 | **Elsevier** |MRNet: Multi-modal and multi-scale refined network for RGB-D salient object detection
-| [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006197#sec0015)/[Code]()
+12 | **Elsevier** |MRNet: Multi-modal and multi-scale refined network for RGB-D salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006197#sec0015)/[Code]()
 13 | **Elsevier** | Transformers and CNNs fusion network for salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222013704#s0070)/[Code]()
 14 | **Elsevier** | Bidirectional Attentional Interaction Networks for RGB-D salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S026288562300166X#s0065)/[Code]()
 15 | **Elsevier** |Channel-overcomplete convolutional architectures for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200423001902#ab0010)/[Code]()
+16 | **Elsevier** | Depth cue enhancement and guidance network for RGB-D salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S104732032300130X)/[Code]()
+17 | **Elsevier** |Dual Swin-transformer based mutual interactive network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223009025#sec4)/[Code]()
+18 | **Elsevier** | CVit-Net: A conformer driven RGB-D salient object detector with operation-wise attention learning| [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423005778)/[Code]()
 # Multi-modal  fusion for  object detection（RGB-Lidar)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
@@ -170,9 +173,23 @@ You can find in [Paper](https://github.com/VDT-2048/VDT-Dataset)   <br>
 :-: | :-: | :-  | :-: | :-: |
 01| **IEEE** |Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization | [Paper](https://ieeexplore.ieee.org/document/10256373)/[Code]()|RGB-D-Lidar|
 02 | **IEEE** | Ad Hoc-Obstacle Avoidance-Based Navigation System Using Deep Reinforcement Learning for Self-Driving Vehicles| [Paper](https://ieeexplore.ieee.org/document/10189852)/[Code]()|RGB-D RGB-Lidar|
-03✔✔| **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()
+03✔✔| **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()| RGB-Nir,liadr|
 04 | **Elsevier** | Hierarchical Two-stage modal fusion for Triple-modality salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0263224123007443)/[Code]()| RGB-D-T SOD|
 05 | **Elsevier** |Lightweight multi-level feature difference fusion network for RGB-D-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1319157823002562)/[Code]()| RGB-D-T SOD|
+
+--------------------------------------------------------------------------------------
+# Multi-modal  fusion for  object detection（survey)
+## 2023
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **Elsevier** | A systematic review of image-level camouflaged object detection with deep learning| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223011736)/[Code]()
+02 | **Elsevier** | RGB-T image analysis technology and application: A survey| [Paper](https://www.sciencedirect.com/science/article/pii/S0952197623001033)/[Code]()
+03 | **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()
+
+
+
+
+
 
 
 --------------------------------------------------------------------------------------
