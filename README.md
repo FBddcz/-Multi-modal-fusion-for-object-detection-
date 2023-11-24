@@ -78,6 +78,9 @@ You can find in [Paper](https://paperswithcode.com/dataset/sun-rgb-d)   <br>
 **Scale Multi-view RGBD**  <br>
 It consists of 47210 RGBD images from 37 object categories, annotated with 15 visual affordance types. <br>
 You can find in [Paper](https://ieeexplore.ieee.org/document/10222906)   <br>
+**RGBD NYU-rank**  <br>
+The proposed RGBD NYU-rank dataset contains RGB images, depth images and truth images for salient object ranking. We randomly divide this dataset into a training set of 1160 images and a test set of 289 images.<br>
+You can find in [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322007300#sec0023)   <br>
 
 
 ## RGB-Lidar:
@@ -93,6 +96,10 @@ You can find in [Paper](https://www.nuscenes.org/nuscenes#panoptic)   <br>
 **JRDB**  <br>
 The dataset includes 64 minutes of annotated multimodal sensor data including stereo cylindrical 360 degrees RGB video at 15 fps, 3D point clouds from two Velodyne 16 Lidars, line 3D point clouds from two Sick Lidars, audio signal, RGB-D video at 30 fps, 360 degrees spherical image from a fisheye camera and encoder values from the robot's wheels. <br>
 You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667809)   <br>
+## RGB-D-T:
+**VDT2048**  <br>
+This dataset contains 2048 image groups, and each group contains triple-modal images (i.e., visible image, depth image, and thermal image). All of the images have the same resolution of 640×480. This dataset collected 34 household items in the seven most common household scenes.<br>
+You can find in [Paper](https://github.com/VDT-2048/VDT-Dataset)   <br>
 
 
 
@@ -125,8 +132,10 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 15✔ | **Elsevier** | Multimodal salient object detection via adversarial learning with collaborative generator | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006972)/[Code]()
 16 | **Elsevier** | Feature aggregation with transformer for RGB-T salient object detection| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223004526)/[Code]()
 17✔| **Elsevier** |SIA: RGB-T salient object detection network with salient-illumination awareness| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0143816623003718)/[Code]()
-18✔✔| **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()
-
+18 | **Elsevier** |Thermal images-aware guided early fusion network for cross-illumination RGB-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006303)/[Code]()
+19 *| **Elsevier** | RGB-T image analysis technology and application: A survey| [Paper](https://www.sciencedirect.com/science/article/pii/S0952197623001033)/[Code]()
+20 | **Elsevier** |CrossFuse: A novel cross attention mechanism based infrared and visible image fusion approach | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523004633#sec5)/[Code]()
+21 | **Elsevier** |Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523000519)/[Code]()
 # Multi-modal  fusion for  object detection（RGB-D)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
@@ -139,7 +148,14 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 06| **IEEE** |Surface Defect Detection for No-Service Rails With Skeleton-Aware Accurate and Fast Network | [Paper](https://ieeexplore.ieee.org/document/10304418)/[Code]()
 07✔| **IEEE** |A Large Scale Multi-View RGBD Visual Affordance Learning Dataset | [Paper](https://ieeexplore.ieee.org/document/10222906)/[Code]()
 08✔| **Elsevier** | Multimodal salient object detection via adversarial learning with collaborative generator | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006972)/[Code]()
-
+09 | **Elsevier** | Depth guided feature selection for RGBD salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222014102#ab005)/[Code]()
+10 | **Elsevier** | Geometry-guided multilevel RGBD fusion for surface normal estimation| [Paper](https://www.sciencedirect.com/science/article/pii/S0140366423001330)/[Code]()
+11 | **Elsevier** |Dual attention guided multi-scale fusion network for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0923596523000863)/[Code]()
+12 | **Elsevier** |MRNet: Multi-modal and multi-scale refined network for RGB-D salient object detection
+| [Paper](https://www.sciencedirect.com/science/article/pii/S0031320322006197#sec0015)/[Code]()
+13 | **Elsevier** | Transformers and CNNs fusion network for salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0925231222013704#s0070)/[Code]()
+14 | **Elsevier** | Bidirectional Attentional Interaction Networks for RGB-D salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S026288562300166X#s0065)/[Code]()
+15 | **Elsevier** |Channel-overcomplete convolutional architectures for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1051200423001902#ab0010)/[Code]()
 # Multi-modal  fusion for  object detection（RGB-Lidar)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
@@ -147,13 +163,17 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 01 | **IEEE** | ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3-D Object Detection| [Paper](https://ieeexplore.ieee.org/document/10268462)/[Code]()
 02 | **IEEE** | EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection| [Paper](https://ieeexplore.ieee.org/document/9983516)/[Code]()
 03 | **IEEE** | Camera and LiDAR Fusion for Robust 3D Person Detection in Indoor Environments | [Paper](https://ieeexplore.ieee.org/document/10129627)/[Code]()
-
+04 | **Elsevier** | BCAF-3D: Bilateral Content Awareness Fusion for cross-modal 3D object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0950705123007025#sec6)/[Code]()
 # Multi-modal  fusion for  object detection（others)
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** |**Remark**|
 :-: | :-: | :-  | :-: | :-: |
 01| **IEEE** |Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization | [Paper](https://ieeexplore.ieee.org/document/10256373)/[Code]()|RGB-D-Lidar|
 02 | **IEEE** | Ad Hoc-Obstacle Avoidance-Based Navigation System Using Deep Reinforcement Learning for Self-Driving Vehicles| [Paper](https://ieeexplore.ieee.org/document/10189852)/[Code]()|RGB-D RGB-Lidar|
+03✔✔| **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()
+04 | **Elsevier** | Hierarchical Two-stage modal fusion for Triple-modality salient object detection| [Paper](https://www.sciencedirect.com/science/article/pii/S0263224123007443)/[Code]()| RGB-D-T SOD|
+05 | **Elsevier** |Lightweight multi-level feature difference fusion network for RGB-D-T salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S1319157823002562)/[Code]()| RGB-D-T SOD|
+
 
 --------------------------------------------------------------------------------------
 # keep updating
