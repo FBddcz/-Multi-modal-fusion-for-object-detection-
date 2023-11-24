@@ -18,7 +18,9 @@ Provide a summary of Multi-modal  fusion for  object detection <br>
 **RGBTDronePerson**  <br>
 The first dataset is newly collected by drone-based RGBT cameras from various scenarios, named ''RGBTDronePerson'', which contains 6,125 pairs of RGBT images and 70,880 instances. <br>
 You can find in [Paper](https://nnnnerd.github.io/RGBTDronePerson/)   <br>
-
+**Teledyne FLIR ADAS**  <br>
+This dataset3 contains 26,442 fully annotated frames with 520,000 bounding box annotations for 15 categories of objects including persons, different types of vehicles, traffic lights, etc. as shown in Table 2. Of these images, 9711 thermal and 9233 RGB frames are provided for training/validation purposes. <br>
+You can find in [Paper](https://www.flir.com/oem/adas/adas-dataset-form/)   <br>
 **DroneVehicle（2020）**  <br>
 DroneVehicle dataset consists of a total of 56878 image sets, half of which are RGB images and the rest are Thermal images.  <br>
 You can find in [Paper](https://arxiv.xilesou.top/pdf/2003.02437.pdf)   <br>
@@ -41,6 +43,9 @@ You can find in [Paper](https://github.com/hanna-xu/RoadScene)   <br>
 **KAIST（2015）**  <br>
 It includes a total of 95,328 images, each of which contains both RGB color images and infrared images. A total of 103128 dense annotations are included. The dataset captures a variety of regular traffic scenarios, including campuses, streets, and the countryside, during the day and at night. <br>
 You can find in [Paper](http://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)   <br>
+**VI-RGBT3500**  <br>
+The VI-RGBT3500 dataset contains 630 pairs of variable illumination images from the VT821, VT1000, and VT5000, 1190 pairs of images from the VDT2048, and all images from the VI-RGBT1500 dataset. <br>
+You can find in [Paper](https://github.com/VDT-2048/SIA)   <br>
 
 
 ## RGB-D:
@@ -116,10 +121,11 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 11 | **IEEE** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9869666)/[Code]()
 12 | **IEEE** | WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10127616)/[Code]()
 13 | **Elsevier** |Drone-based RGBT tiny person detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002319#preview-section-snippets)/[Code]()
-14的✔ | **Elsevier** | Illumination-aware window transformer for RGBT modality fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002450)/[Code]()
-
-
-
+14✔ | **Elsevier** | Illumination-aware window transformer for RGBT modality fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002450)/[Code]()
+15✔ | **Elsevier** | Multimodal salient object detection via adversarial learning with collaborative generator | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006972)/[Code]()
+16 | **Elsevier** | Feature aggregation with transformer for RGB-T salient object detection| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223004526)/[Code]()
+17✔| **Elsevier** |SIA: RGB-T salient object detection network with salient-illumination awareness| [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0143816623003718)/[Code]()
+18✔✔| **Elsevier** |A systematic literature review on object detection using near infrared and thermal images | [Paper](https://www.sciencedirect.com/science/article/pii/S092523122300927X#sec3)/[Code]()
 
 # Multi-modal  fusion for  object detection（RGB-D)
 ## 2023
@@ -132,6 +138,7 @@ You can find in [Paper](https://blog.csdn.net/moxibingdao/article/details/106667
 05 | **IEEE** | Depth Injection Framework for RGBD Salient Object Detection| [Paper](https://ieeexplore.ieee.org/document/10258039#full-text-header)/[Code]()
 06| **IEEE** |Surface Defect Detection for No-Service Rails With Skeleton-Aware Accurate and Fast Network | [Paper](https://ieeexplore.ieee.org/document/10304418)/[Code]()
 07✔| **IEEE** |A Large Scale Multi-View RGBD Visual Affordance Learning Dataset | [Paper](https://ieeexplore.ieee.org/document/10222906)/[Code]()
+08✔| **Elsevier** | Multimodal salient object detection via adversarial learning with collaborative generator | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197622006972)/[Code]()
 
 # Multi-modal  fusion for  object detection（RGB-Lidar)
 ## 2023
