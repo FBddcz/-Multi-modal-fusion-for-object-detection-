@@ -11,7 +11,7 @@ Provide a summary of Multi-modal  fusion for  object detection <br>
 3. <a href="#Multi-modal  fusion for  object detection(RGB-D)"> Multi-modal  fusion for  object detection（RGB-D)</a>
 4. <a href="#Multi-modal  fusion for  object detection(RGB-Lidar)"> Multi-modal  fusion for  object detection（RGB-Lidar)</a>
 5. <a href="#Multi-modal  fusion for  object detection(others)"> Multi-modal  fusion for  object detection（others)</a>
-5. <a href="#Multi-modal  fusion for  object detection(survey)"> Multi-modal  fusion for  object detection（survey)</a>
+5. <a href="#Multi-modal  fusion for  object detection( survey)"> Multi-modal  fusion for  object detection（survey)</a>
 --------------------------------------------------------------------------------------
 # Multi-modal  fusion for  object detectiont Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 --------------------------------------------------------------------------------------
