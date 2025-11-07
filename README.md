@@ -1,7 +1,7 @@
 # Multi-modal  fusion for  object detection
 
 Provide a summary of Multi-modal  fusion for  object detection <br> 
-(**Paper, Code, Dataset and more**). 
+(**Paper, Code, Dataset，Evaluation criteria and  more**). 
 
 --------------------------------------------------------------------------------------
 ## Content:
